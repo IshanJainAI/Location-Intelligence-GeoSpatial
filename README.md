@@ -1,7 +1,7 @@
 # Location-Intelligence-GeoSpatial
 
 # 30 Geospatial Python Libraries 
-[Link]([url](https://github.com/IshanJainAI/Location-Intelligence-GeoSpatial/blob/main/30%20Python%20Libraries%20for%20Location%20Intelligence.pdf)) 
+https://github.com/IshanJainAI/Location-Intelligence-GeoSpatial/blob/main/30%20Python%20Libraries%20for%20Location%20Intelligence.pdf
 
 
 # Author
